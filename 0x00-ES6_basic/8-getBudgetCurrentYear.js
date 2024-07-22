@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object
 
 function getCurrentYear() {
