@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 export default function createIteratorObject(report) {
     const emps = [];
     

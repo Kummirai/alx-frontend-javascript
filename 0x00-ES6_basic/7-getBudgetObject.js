@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //Notice how the keys and the variable names are the same?
 //Modify the following function’s budget object to simply use the keyname instead.
 
