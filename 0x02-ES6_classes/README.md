@@ -1,7 +1,6 @@
-# 0x02. ES6 classes
-## 0. You used to attend a place like this at some point
+# 0. You used to attend a place like this at some point
 
-0. Implement a class named ClassRoom:
+#### Implement a class named ClassRoom:
 
 Prototype: export default class ClassRoom
 It should accept one attribute named maxStudentsSize (Number) and assigned to _maxStudentsSize
